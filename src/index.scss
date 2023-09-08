@@ -571,6 +571,7 @@ background:#0067e6 ;
     }
   }
   @media (max-width:50rem) {
+    padding-inline: 1rem;
     .quote-wrapper{
       .quote-heading{
         font-size: $ml-text;
@@ -695,6 +696,7 @@ transition: background 300ms ease-in-out;
     max-width: 50rem;
     margin-inline: auto;
     padding-block: 8.75rem;
+    padding-inline: 1rem;
     .process-wrapper{
       text-align: center;
       h3{
